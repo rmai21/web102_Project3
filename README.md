@@ -4,7 +4,7 @@ Submitted by: **Rajvi Maisuria**
 
 This web app: **Helps with studying PM definitions, terminology and frameworks.**
 
-Time spent: **1** hours spent in total
+Time spent: **0.15** hours spent in total
 
 ## Required Features
 
