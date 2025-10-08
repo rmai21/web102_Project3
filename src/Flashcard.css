@@ -1,0 +1,21 @@
+.navigation-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    background-color: aliceblue;
+    font-weight: 200;
+    }
+
+    .card:hover {
+  background-color: #023a4948; 
+}
+
+    .navigation-buttons button {
+      background-color: #0a2c58;
+      color: white;
+    }
+
+    .navigation-buttons button:hover {
+      background-color: #ffffff;
+      color: rgb(0, 0, 0);
+    }
